@@ -25,3 +25,15 @@ Below is a list of the most popular internet protocols:
 
 
 In the next posts, some of the above will be described more precisely.
+
+## Connection-Oriented and Connectionless Protocols
+
+We can divide networking technologies based on whether or not they use a dedicated path (circuit switching, eg. telephone system) or packet-switching type (path is assigned while packets are traversing between routers). Another way which they could be differentiated has to do with whether or not they use persistent connections between them. This case is closely related to circuit vs packet-switching.
+
+### Connection-oriented protocols
+
+To establish connection using these protocols, there have to be some kind of handshakes. Fox example, in TCP protocol, before data is being sent, both parties exchange information about connection (three way handshake). If the connection is established, only then payload is sent. When all the packets are sent, connection is closed.
+
+### Conectionless protocols
+
+These protocols do not require to initiate any handshakes before data is send. One party just sends data to the receiver and do not care if the packet is delivered or not. This protocol is used in UDP, eg. for streaming videos, where establishing connections is not needed, thus faster performance is available.
