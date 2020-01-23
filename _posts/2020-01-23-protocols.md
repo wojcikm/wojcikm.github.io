@@ -13,12 +13,12 @@ Despite above definition, term `protocol` often refers to different concepts of 
 
 Below is a list of the most popular internet protocols:
 
-⋅⋅* IP: Internet Protocol
-⋅⋅* FTP: File Transfer Protocol
-⋅⋅* SSH: Secure shell
-⋅⋅* SSL: Secure Sockers Layer
-⋅⋅* TELNET
-⋅⋅* SMTP: Simple Mail Transfer Protocol
-⋅⋅* POP3: Post Office Protocol
-⋅⋅* HTTP: HyperText Transfer Protocol
-⋅⋅* HTTPS: HyperText Transfer Protocol
+  * IP: Internet Protocol
+  * FTP: File Transfer Protocol
+  * SSH: Secure shell
+  * SSL: Secure Sockers Layer
+  * TELNET
+  * SMTP: Simple Mail Transfer Protocol
+  * POP3: Post Office Protocol
+  * HTTP: HyperText Transfer Protocol
+  * HTTPS: HyperText Transfer Protocol
