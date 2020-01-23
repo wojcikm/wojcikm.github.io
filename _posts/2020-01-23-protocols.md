@@ -22,3 +22,6 @@ Below is a list of the most popular internet protocols:
   * POP3: Post Office Protocol
   * HTTP: HyperText Transfer Protocol
   * HTTPS: HyperText Transfer Protocol
+
+
+In the next posts, some of the above will be described more precisely.
